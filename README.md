@@ -3,7 +3,7 @@ SQL database for managing a library.
 
 
 ## NOTE:
-- This repository contains the homework solution for the discipline database.
+- This repository contains the homework solution for the database discipline .
 
 
 ## HOMEWORK TASK
