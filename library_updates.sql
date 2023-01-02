@@ -29,3 +29,5 @@ SET Titlul = 'De vorba cu EMMA' where ISBN = 60697805 RETURNING *;
 SELECT * FROM Carti WHERE Anul_aparitiei=2019 and Titlul='Psihologie';
 SELECT * FROM Cititori;
 SELECT * FROM Angajati;
+
+$$ LANGUAGE plpgsql;
