@@ -1553,3 +1553,4 @@ INSERT INTO Publica VALUES (
 	1785
 );
 
+$$ LANGUAGE plpgsql;
