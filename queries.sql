@@ -191,3 +191,4 @@ SELECT stoc FROM Are WHERE stoc>15;
 
 SELECT * FROM detalii_stoc;
 
+$$ LANGUAGE plpgsql;
