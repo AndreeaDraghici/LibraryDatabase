@@ -117,3 +117,4 @@ cascade,
 		foreign key(ID_Editura) references Edituri(ID_Editura) on delete cascade on update
 cascade
 );
+$$ LANGUAGE plpgsql;
